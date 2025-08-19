@@ -44,7 +44,7 @@ This involes the manual process of checking dark web marketplaces, forums, and p
 
 2. 🌐 **Connect to the Tor Network**  
    - Start the Tor service locally.  
-   - Configure the browser or Python script to route traffic through Tor (SOCKS5 proxy).  
+   - Configure the browser to route traffic through Tor (SOCKS5 proxy).  
 
 3. 📥 **Access Dark Web Sites**  
    - Visit each `.onion` site manually using Tor Browser.  
